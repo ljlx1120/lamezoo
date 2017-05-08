@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h1>
+    {{title}}
+  </h1>
+</div>
+<animal-list [animals]="animals"></animal-list>
+<new-animal (newAnimalSender)="addAnimal($event)"></new-animal>

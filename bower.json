@@ -1,0 +1,17 @@
+{
+  "name": "zoostaff",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Xing Li <msuli_1120@ymail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
